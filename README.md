@@ -31,11 +31,8 @@ This project uses descriptive analysis, including a description of trends over t
 
 Most successful movies fall within the genres of `Action, Comedy, and Drama`. Furthermore, there is a positive correlation between movie ratings and box office revenue. The analysis also reveals a moderate budget range associated with successful outcomes.
 
-<<<<<<< HEAD
 ![results_visualization](./images/heatmap.png)
-=======
-![results_visualization](."C:\Users\HP\OneDrive\Documents\Microsoft-Movie-Analysis\Microsoft-Movie-Studio-Box-Office-Analysis\images\heatmap.png")
->>>>>>> 79a349833ed38b537ded0622beca2316cb8572e9
+
 
 ## Conclusions
 
