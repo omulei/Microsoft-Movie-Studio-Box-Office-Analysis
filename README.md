@@ -1,5 +1,6 @@
 ---
 
+
 ![Vintage Movie Cassette Tape](./images/peaky.png)
 
 # Movie Analysis: A Deep Dive into Box Office Performance
