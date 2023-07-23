@@ -52,7 +52,7 @@ Further analysis could provide additional insights:
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./Microsoft Movie Studio Box Office Analysis.ipynb) or review this [presentation](./Movie_Analysis_Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./Microsoft_Movie_Studio_Box_Office_Analysis.ipynb) or review this [presentation](./Movie_Analysis_Presentation.pdf).
 
 For additional info, contact Your Name at [omulei@gmail.com](mailto:your-email@example.com)
 
