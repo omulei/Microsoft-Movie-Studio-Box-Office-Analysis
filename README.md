@@ -5,7 +5,7 @@
 
 # Movie Analysis: A Deep Dive into Box Office Performance
 
-**Author**: [Oscar Mulei](mailto:omulei@gmail.com)
+**Author**: `[Oscar Mulei](mailto:omulei@gmail.com)`
 
 ## Overview
 
@@ -32,7 +32,6 @@ This project uses descriptive analysis, including a description of trends over t
 Most successful movies fall within the genres of `Action, Comedy, and Drama`. Furthermore, there is a positive correlation between movie ratings and box office revenue. The analysis also reveals a moderate budget range associated with successful outcomes.
 
 ![results_visualization](./images/heatmap.png)
-
 
 ## Conclusions
 
