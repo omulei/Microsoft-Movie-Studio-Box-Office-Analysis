@@ -15,7 +15,6 @@
 6. [Conclusions](#conclusions)
    - [Next Steps](#next-steps)
 7. [For More Information](#for-more-information)
-8. [Repository Structure](#repository-structure)
 
 ## Overview
 
