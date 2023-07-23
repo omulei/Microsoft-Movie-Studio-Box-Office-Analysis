@@ -1,3 +1,4 @@
+
 ---
 
 ![Vintage Movie Cassette Tape](https://media.discordapp.net/attachments/1008571220385599488/1126232701146501360/MadsMeyer_peaky_blinders_style_painting_2e662a64-2009-46fd-b8bf-12e84648efc4.png?width=573&height=573)
@@ -30,7 +31,11 @@ This project uses descriptive analysis, including a description of trends over t
 
 Most successful movies fall within the genres of `Action, Comedy, and Drama`. Furthermore, there is a positive correlation between movie ratings and box office revenue. The analysis also reveals a moderate budget range associated with successful outcomes.
 
+<<<<<<< HEAD
 ![results_visualization](./images/heatmap.png)
+=======
+![results_visualization](."C:\Users\HP\OneDrive\Documents\Microsoft-Movie-Analysis\Microsoft-Movie-Studio-Box-Office-Analysis\images\heatmap.png")
+>>>>>>> 79a349833ed38b537ded0622beca2316cb8572e9
 
 ## Conclusions
 
