@@ -1,11 +1,11 @@
 
 ---
 
-![Vintage Movie Cassette Tape](https://media.discordapp.net/attachments/1008571220385599488/1126232701146501360/MadsMeyer_peaky_blinders_style_painting_2e662a64-2009-46fd-b8bf-12e84648efc4.png?width=573&height=573)
+![Vintage Movie Cassette Tape](./images/peaky.png)
 
 # Movie Analysis: A Deep Dive into Box Office Performance
 
-**Author**: `[Oscar Mulei](mailto:omulei@gmail.com)`
+**Author**: [Oscar Mulei](mailto:omulei@gmail.com)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This project provides a comprehensive analysis of box office performance for mov
 
 ## Business Problem
 
-![img](https://media.discordapp.net/attachments/1050435586235846767/1052697908295774298/yassein_muhamedddd_action_movie_poster_movie_poster_action_movi_5d7ba72b-db05-4212-917c-85855d4425c1.png?width=573&height=573)
+![img](./images/action.png)
 
 Microsoft, recognizing the success of other big companies in creating original video content, is eager to enter the movie industry. However, despite their eagerness, they lack experience in movie creation. The challenge lies in understanding the current movie landscape and identifying the types of films that perform well at the box office. This project aims to explore these aspects, and its findings will guide the decision-making process for Microsoft's new movie studio, helping to decide what type of films to create.
 
